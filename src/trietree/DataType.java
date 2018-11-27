@@ -1,4 +1,4 @@
-package TrieTree;
+package trietree;
 
 /**
  * @Auther: discat
